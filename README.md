@@ -1,9 +1,10 @@
 <h1 align="center" class="heading-element" dir="auto">👋 Hi, I’m Oladimeji Nathaniel OLANREWAJU</h1>
 <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">A passionate and skilled Full Stack Web Developer with extensive experience in developing dynamic and responsive web applications</h3>
 
-
-- 👨‍💻 Check out some of my projects hosted on GitHub   
+- 📝 My expertise spans across both frontend and backend technologies, including the MERN stack (MongoDB, Express.js, React.js, Node.js). I am adept at creating seamless and user-friendly interfaces, integrating powerful backend functionalities, and ensuring the overall performance and scalability of web applications. With a keen eye for detail and a commitment to delivering high-quality code, I thrive in collaborative environments and enjoy tackling challenging projects.
+  
 - ⚡ Fun fact: <b>i'm neither weak nor dishonest</b>
+- 👨‍💻 I am currently open to new opportunities and excited to bring my technical skills and innovative mindset to a dynamic team. Let's connect and explore how I can contribute to your next project! 
 
 <h3 align="left" class="heading-element" dir="auto">Connect with me:</h3>
 <p align="left" dir="auto">

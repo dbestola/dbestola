@@ -1,5 +1,5 @@
 <h1 align="center" class="heading-element" dir="auto">👋 Hi, I’m Oladimeji Nathaniel OLANREWAJU</h1>
-<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">A passionate fullstack developer</h3>
+<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">A passionate and skilled Full Stack Web Developer with extensive experience in developing dynamic and responsive web applications</h3>
 
 
 - 👨‍💻 Check out some of my projects hosted on GitHub   

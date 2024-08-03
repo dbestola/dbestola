@@ -4,7 +4,8 @@
 - 📝 My expertise spans across both frontend and backend technologies, including the MERN stack (MongoDB, Express.js, React.js, Node.js). I am adept at creating seamless and user-friendly interfaces, integrating powerful backend functionalities, and ensuring the overall performance and scalability of web applications. With a keen eye for detail and a commitment to delivering high-quality code, I thrive in collaborative environments and enjoy tackling challenging projects.
   
 - ⚡ Fun fact: <b>i'm neither weak nor dishonest</b>
-- 👨‍💻 I am currently open to new opportunities and excited to bring my technical skills and innovative mindset to a dynamic team. Let's connect and explore how I can contribute to your next project! 
+- 👨‍💻 I am currently open to new opportunities and excited to bring my technical skills and innovative mindset to a dynamic team. Let's connect and explore how I can contribute to your next project!
+- 📫 How to reach me olanrewajuoladimeji5@gmail.com 
 
 <h3 align="left" class="heading-element" dir="auto">Connect with me:</h3>
 <p align="left" dir="auto">

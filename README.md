@@ -9,8 +9,8 @@
 
 <h3 align="left" class="heading-element" dir="auto">Connect with me:</h3>
 <p align="left" dir="auto">
-<a href="https://x.com/dbest_o?s=21&t=yID52OHRjjHDfjuCQnbxQQ" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saharmufc" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://www.linkedin.com/in/oladimeji-olanrewaju-474174126/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akinwumi-sehinde-ab8071138/" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://x.com/dbest_o?s=21&t=yID52OHRjjHDfjuCQnbxQQ" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dbestola" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/oladimeji-olanrewaju-474174126/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/oladimeji-olanrewaju-474174126" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
 <h3 align="left" class="heading-element" dir="auto">Languages and Tools:</h3>
